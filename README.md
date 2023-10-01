@@ -25,7 +25,7 @@
 > 
 ***
 ### Установка:
-#### Репозиторий содержит 2 полностью готовых варианта: [Akhmetzyanov](hw1-5 Akhmetzyanov),[Lubovski](hw1-5 Lubovski)
+#### Репозиторий содержит 2 полностью готовых варианта: [Akhmetzyanov](hw1-5 Akhmetzyanov), [Lubovski](hw1-5 Lubovski)
 #### Install libraries(check file requirements.txt): 
 ``` pip install -r requirements.txt ```
 #### Номера 2-5 содержат фотографии и файлы с данными, скачивайте полностью
